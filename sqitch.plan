@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=canonical_direction
+%uri=https://github.com/jmarca/canonical_direction
+
+canonical_direction [detectors_schema:newtbmap] 2016-04-15T15:46:01Z James E. Marca <james@activimetrics.com> # a function to canonicalize direction strings
