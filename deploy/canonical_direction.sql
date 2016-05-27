@@ -2,7 +2,7 @@
 
 BEGIN;
 
-CREATE OR REPLACE FUNCTION newtbmap.canonical_direction( dir TEXT ) RETURNS TEXT  AS
+CREATE OR REPLACE FUNCTION newctmlmap.canonical_direction( dir TEXT ) RETURNS TEXT  AS
 $$
 DECLARE
    cdirs  TEXT;
@@ -26,7 +26,7 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
-CREATE OR REPLACE FUNCTION newtbmap.canonical_direction( dir varchar ) RETURNS varchar  AS
+CREATE OR REPLACE FUNCTION newctmlmap.canonical_direction( dir varchar ) RETURNS varchar  AS
 $$
 DECLARE
    cdirs  varchar;

@@ -2,6 +2,6 @@
 
 BEGIN;
 
-drop function newtbmap.canonical_direction(text);
+drop function newctmlmap.canonical_direction(text);
 
 COMMIT;

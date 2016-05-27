@@ -2,6 +2,6 @@
 
 BEGIN;
 
-SELECT pg_catalog.has_function_privilege('newtbmap.canonical_direction(text)','execute');
+SELECT pg_catalog.has_function_privilege('newctmlmap.canonical_direction(text)','execute');
 
 ROLLBACK;
