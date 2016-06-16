@@ -1,0 +1,22 @@
+{
+  "name": "canonical_direction",
+  "version": "1.0.0",
+  "description": "A simple sql function to return a canonical direction so equals means equals",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmarca/calvad_canonical_direction.git"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jmarca/calvad_canonical_direction/issues"
+  },
+  "homepage": "https://github.com/jmarca/calvad_canonical_direction#readme"
+}
