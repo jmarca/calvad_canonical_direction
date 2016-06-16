@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jmarca/calvad_canonical_direction/issues"
   },
-  "homepage": "https://github.com/jmarca/calvad_canonical_direction#readme"
+  "homepage": "https://github.com/jmarca/calvad_canonical_direction#readme",
+  "dependencies": {
+    "calvad_detectors_schema": "github:jmarca/calvad_detectors_schema"
+  }
 }
